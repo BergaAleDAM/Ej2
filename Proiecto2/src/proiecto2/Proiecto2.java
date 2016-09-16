@@ -17,6 +17,7 @@ public class Proiecto2 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hola majo que pasa jijijiiji");
+        System.out.println("Si dice jijijijij, la chupa");
     }
     
 }
